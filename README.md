@@ -18,4 +18,5 @@ where positions are in algebraic chess notation
 
 Example:
 $ java ChessShortestPath E1 A7
+
 $ C2 A3 B5 A7
