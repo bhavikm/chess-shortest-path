@@ -6,9 +6,6 @@ Right now this is just for a Knight but can easily extended to other pieces usin
 
 Outputs shortest path moves a Knight should take from the starting position provided up to the end position.
 
-Instructions:
------------
-
 Compile:
 -----------
 $ javac *.java  
